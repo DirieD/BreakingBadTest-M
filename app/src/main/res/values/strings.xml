@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BreakingBad</string>
+    <string name="player_one_text">PlayerOne</string>
+    <string name="player_two_text">PlayerTwo</string>
+    <string name="button_reset_text">RESET</string>
+    <string name="placeholder_score">0</string>
+</resources>
